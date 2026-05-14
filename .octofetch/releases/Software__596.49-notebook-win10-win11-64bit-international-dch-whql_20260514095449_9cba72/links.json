@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6477",
+  "folder": "Software__596.49-notebook-win10-win11-64bit-international-dch-whql_20260514095449_9cba72",
+  "base_name": "Software__596.49-notebook-win10-win11-64bit-international-dch-whql_20260514095449_9cba72.exe",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mahan3221/Cloud-1/releases/tag/co-releases-v1-6477",
+  "files": [
+    {
+      "name": "Software__596.49-notebook-win10-win11-64bit-international-dch-whql_20260514095449_9cba72.exe",
+      "url": "https://github.com/mahan3221/Cloud-1/releases/download/co-releases-v1-6477/Software__596.49-notebook-win10-win11-64bit-international-dch-whql_20260514095449_9cba72.exe",
+      "api_url": "https://api.github.com/repos/mahan3221/Cloud-1/releases/assets/420057654",
+      "id": 420057654,
+      "size": 958811328,
+      "download_count": 0
+    }
+  ]
+}
