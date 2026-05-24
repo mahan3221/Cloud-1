@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3063",
+  "folder": "Software__Hiddify-Windows-Setup-x64_20260524232435_8760ff",
+  "base_name": "Software__Hiddify-Windows-Setup-x64_20260524232435_8760ff.exe",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mahan3221/Cloud-1/releases/tag/co-releases-v1-3063",
+  "files": [
+    {
+      "name": "Software__Hiddify-Windows-Setup-x64_20260524232435_8760ff.exe",
+      "url": "https://github.com/mahan3221/Cloud-1/releases/download/co-releases-v1-3063/Software__Hiddify-Windows-Setup-x64_20260524232435_8760ff.exe",
+      "api_url": "https://api.github.com/repos/mahan3221/Cloud-1/releases/assets/428859683",
+      "id": 428859683,
+      "size": 36486310,
+      "download_count": 0
+    }
+  ]
+}
