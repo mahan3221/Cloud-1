@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3566",
+  "folder": "Software__NVIDIA_app_v11.0.7.247_20260524233231_71507c",
+  "base_name": "Software__NVIDIA_app_v11.0.7.247_20260524233231_71507c.exe",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mahan3221/Cloud-1/releases/tag/co-releases-v1-3566",
+  "files": [
+    {
+      "name": "Software__NVIDIA_app_v11.0.7.247_20260524233231_71507c.exe",
+      "url": "https://github.com/mahan3221/Cloud-1/releases/download/co-releases-v1-3566/Software__NVIDIA_app_v11.0.7.247_20260524233231_71507c.exe",
+      "api_url": "https://api.github.com/repos/mahan3221/Cloud-1/releases/assets/428865123",
+      "id": 428865123,
+      "size": 176688672,
+      "download_count": 0
+    }
+  ]
+}
