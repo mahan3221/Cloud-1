@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8561",
+  "folder": "Software__ImageGlass_9.5.0.515_x64_20260525093813_684165",
+  "base_name": "Software__ImageGlass_9.5.0.515_x64_20260525093813_684165.msi",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mahan3221/Cloud-1/releases/tag/co-releases-v1-8561",
+  "files": [
+    {
+      "name": "Software__ImageGlass_9.5.0.515_x64_20260525093813_684165.msi",
+      "url": "https://github.com/mahan3221/Cloud-1/releases/download/co-releases-v1-8561/Software__ImageGlass_9.5.0.515_x64_20260525093813_684165.msi",
+      "api_url": "https://api.github.com/repos/mahan3221/Cloud-1/releases/assets/429233010",
+      "id": 429233010,
+      "size": 142596096,
+      "download_count": 0
+    }
+  ]
+}
